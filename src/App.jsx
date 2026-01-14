@@ -130,7 +130,7 @@ export default function App() {
                 <p className="text-[#2C241B]/80 font-serif">Your support keeps this independent space ad-free and alive.</p>
               </div>
               {/* BURAYA KENDİ BUY ME A COFFEE LİNKİNİ YAPIŞTIR: */}
-              <a href="[https://https://buymeacoffee.com/50sentences](https://www.buymeacoffee.com/KULLANICI_ADIN)" target="_blank" className="w-full py-4 bg-[#D4A03D] hover:bg-[#B8862D] text-[#2C241B] font-bold uppercase tracking-widest border-2 border-[#2C241B] shadow-[4px_4px_0px_0px_rgba(44,36,27,1)] active:translate-x-[2px] active:translate-y-[2px] flex items-center justify-center gap-2">
+              <a href="[https://buymeacoffee.com/50sentences]" target="_blank" className="w-full py-4 bg-[#D4A03D] hover:bg-[#B8862D] text-[#2C241B] font-bold uppercase tracking-widest border-2 border-[#2C241B] shadow-[4px_4px_0px_0px_rgba(44,36,27,1)] active:translate-x-[2px] active:translate-y-[2px] flex items-center justify-center gap-2">
                 <span>Buy Me a Coffee</span><ExternalLink size={16} />
               </a>
             </div>
